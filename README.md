@@ -17,7 +17,7 @@ Download this repository:
 ```
 
 ### Generate Dataset in MATLAB
-Convert the dataset into h5 files and put them in the root path:
+Convert the dataset into h5 files and put them in the root path ( ./DeeBLiF/Win5_160x160/... ):
 ```
     $ Generateh5_for_Win5_Dataset.m
 ```
@@ -28,7 +28,7 @@ Train the model from scratch:
 ```
     $ python Train.py
 ```
-Reproduce the performance in the paper with our [pre-trained models](https://pan.baidu.com/s/1eEJWBegtkCyjqd-CIi96aw) (code: INSA):
+Reproduce the performance in the paper with our [pre-trained models](https://pan.baidu.com/s/1eEJWBegtkCyjqd-CIi96aw) (code: INSA) ( ./DeeBLiF/PreTrainedModels/... ):
 ```
     $ python Test.py
 ```
