@@ -19,18 +19,18 @@ Download this repository:
 ```
 
 ### Generate Dataset in MATLAB
-Convert the dataset into h5 files and put them in the root path ( ./DeeBLiF/Win5_160x160/... ):
+Convert the dataset into h5 files and put them in the root path ('./DeeBLiF/Win5_160x160/...'):
 ```
     $ Generateh5_for_Win5_Dataset.m
 ```
-or you can directly download the [generated h5 files](https://pan.baidu.com/s/1eEJWBegtkCyjqd-CIi96aw) (code: INSA).
+or you can directly download the generated h5 files on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1eEJWBegtkCyjqd-CIi96aw) (code: INSA).
 
 ### Usage
 Train the model from scratch:
 ```
     $ python Train.py
 ```
-Reproduce the performance in the paper with our [pre-trained models](https://pan.baidu.com/s/1eEJWBegtkCyjqd-CIi96aw) (code: INSA) ( ./DeeBLiF/PreTrainedModels/... ):
+Reproduce the performance in the paper: download our pre-trained models on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1eEJWBegtkCyjqd-CIi96aw) (code: INSA) and put them on the root path ('./DeeBLiF/PreTrainedModels/...').
 ```
     $ python Test.py
 ```
