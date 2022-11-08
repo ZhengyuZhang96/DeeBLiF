@@ -4,7 +4,7 @@
 
 Zhengyu Zhang, Shishun Tian, Wenbin Zou, Luce Morin, and Lu Zhang.
 
-Official PyTorch Code for our ICIP2022 paper "DeeBLiF: Deep blind light field image quality assessment by extracting angular and spatial information". Please refer to our [paper](https://ieeexplore-ieee-org.rproxy.insa-rennes.fr/document/9897951) for details.
+Official PyTorch code for our ICIP2022 paper "DeeBLiF: Deep blind light field image quality assessment by extracting angular and spatial information". Please refer to our [paper](https://ieeexplore-ieee-org.rproxy.insa-rennes.fr/document/9897951) for details.
 
 ### Requirements
 - PyTorch 1.7.1
