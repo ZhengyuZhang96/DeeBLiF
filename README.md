@@ -35,7 +35,7 @@ Reproduce the performance in the paper with our [pre-trained models](https://pan
     $ python Test.py
 ```
 
-### Citiation
+### Citation
 If you find this work helpful, please consider citing:
 ```
 @inproceedings{zhang2022deeblif,
