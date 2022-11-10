@@ -47,7 +47,7 @@ Test the performance of individual distortion type by the following script.
 Our paper only provides the experimental results of the overall performance on the Win5-LID dataset, here we additionally provide the individual distortion type performance of the Win5-LID dataset, and the individual distortion type performance and overall performance of the NBU-LF1.0 and SHU datasets.
 
 **Win5-LID dataset:**
-| **Distortions** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
+| **Distortion types** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
 |  :---------: | :----------: | :----------: | :----------: | :----------: |
 |    HEVC  |  0.9389  |  0.9103  |  0.7988  |  0.3406  |
 |    JPEG2000  |  0.9254  |  0.8686  |  0.7508  |  0.3257  |
@@ -56,7 +56,7 @@ Our paper only provides the experimental results of the overall performance on t
 |    Overall  |  0.8427  |  0.8186  |  0.6502  |  0.5160  |
 
 **NBU-LF1.0 dataset:**
-| **Distortions** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
+| **Distortion types** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
 |  :---------: | :----------: | :----------: | :----------: | :----------: |
 |    NN  |  0.9610  |  0.9168  |  0.8100  |  0.1843  |
 |    BI  |  0.9499  |  0.8986  |  0.7918  |  0.2736  |
@@ -66,7 +66,7 @@ Our paper only provides the experimental results of the overall performance on t
 |    Overall  |  0.8583  |  0.8229  |  0.6515  |  0.4588  |
 
 **SHU dataset:**
-| **Distortions** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
+| **Distortion types** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
 |  :---------: | :----------: | :----------: | :----------: | :----------: |
 |    GAUSS  |  0.9556  |  0.9507  |  0.8609  |  0.2238  |
 |    JPEG2000  |  0.9031  |  0.8980  |  0.7962  |  0.1620  |
