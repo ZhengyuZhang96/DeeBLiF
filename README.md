@@ -23,7 +23,7 @@ Take the Win5-LID dataset for instance, convert the dataset into h5 files and pu
 ```
     $ Generateh5_for_Win5_Dataset.m
 ```
-or you can directly download the generated h5 files on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1AvpFQCyQBTrlD8LBgeTh6A) (code: INSA).
+or you can directly download the generated h5 files on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1teWdRY4_XGiUC07h8DZDHw) (code: INSA).
 
 ### Train
 Train the model from scratch:
@@ -32,7 +32,7 @@ Train the model from scratch:
 ```
 
 ### Test overall performance
-Reproduce the performance in the paper: download our pre-trained models on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1AvpFQCyQBTrlD8LBgeTh6A) (code: INSA) and put them into './DeeBLiF/PreTrainedModels/Win5/...'.
+Reproduce the performance in the paper: download our pre-trained models on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1teWdRY4_XGiUC07h8DZDHw) (code: INSA) and put them into './DeeBLiF/PreTrainedModels/Win5/...'.
 ```
     $ python Test.py
 ```
