@@ -44,7 +44,7 @@ Test the performance of individual distortion type by the following script.
 ```
 
 ### Results
-Our paper only provides the experimental results of the overall performance on the Win5-LID dataset, here we additionally provide the individual distortion type performance of the Win5-LID dataset, and the individual distortion type performance and overall performance of the NBU-LF1.0 and SHU datasets.
+Our paper only provides the experimental results of the overall performance on the Win5-LID dataset, here we additionally provide the individual distortion type performance of the Win5-LID dataset, and the individual distortion type performance and overall performance of the NBU-LF1.0 and SHU datasets. Alternatively, you can reproduce these performance with our provided h5 results (see './DeeBLiF/Results/...') .
 
 **Win5-LID dataset:**
 | **Distortion types** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
