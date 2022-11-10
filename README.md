@@ -8,6 +8,8 @@ Official PyTorch code for our ICIP2022 paper "DeeBLiF: Deep blind light field im
 
 **Note: We first convert the dataset into h5 files in MATLAB and then train/test the model in PYTHON.**
 
+**Hope our work is helpful to you :)**
+
 ### Requirements
 - PyTorch 1.7.1
 - python 3.8
@@ -44,7 +46,7 @@ Test the performance of individual distortion type by the following script.
 ```
 
 ### Results
-Our paper only provides the experimental results of the overall performance on the Win5-LID dataset, here we additionally provide the individual distortion type performance of the Win5-LID dataset, and the individual distortion type performance and overall performance of the NBU-LF1.0 and SHU datasets. Alternatively, you can reproduce these performance with our provided h5 results (see './DeeBLiF/Results/...') .
+Our paper only provides the experimental results of the overall performance on the Win5-LID dataset, here we additionally provide the individual distortion type performance of the Win5-LID dataset, and the individual distortion type performance and overall performance of the NBU-LF1.0 and SHU datasets. Alternatively, you can reproduce these performances using the h5 results we provide in './DeeBLiF/Results/...'.
 
 **Win5-LID dataset:**
 | **Distortion types** | **PLCC** | **SROCC** | **KROCC** | **RMSE** |
