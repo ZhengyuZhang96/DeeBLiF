@@ -23,7 +23,7 @@ Download this repository:
 ### Generate Dataset in MATLAB 
 Take the Win5-LID dataset for instance, convert the dataset into h5 files and put them into './DeeBLiF/Datasets/Win5_160x160/...':
 ```
-    $ Generateh5_for_Win5_Dataset.m
+    $ ./DeeBLiF/Datasets/Generateh5_for_Win5_Dataset.m
 ```
 or you can directly download the generated h5 files on [Google drive](https://drive.google.com/drive/folders/1EDCKqoLUAx-cuf21ROTLKnQWvxN1H7L_?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1teWdRY4_XGiUC07h8DZDHw) (code: INSA).
 
