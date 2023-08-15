@@ -4,7 +4,7 @@
 
 Zhengyu Zhang, Shishun Tian, Wenbin Zou, Luce Morin, and Lu Zhang.
 
-Official PyTorch code for our ICIP2022 paper "DeeBLiF: Deep blind light field image quality assessment by extracting angular and spatial information". Please refer to our [paper](https://ieeexplore-ieee-org.rproxy.insa-rennes.fr/document/9897951) for details.
+Official PyTorch code for our ICIP2022 paper "DeeBLiF: Deep blind light field image quality assessment by extracting angular and spatial information". Please refer to our [paper](https://ieeexplore.ieee.org/abstract/document/9897951) for details.
 
 **Note: We first convert the dataset into h5 files in MATLAB and then train/test the model in PYTHON.**
 
@@ -89,6 +89,10 @@ If you find this work helpful, please consider citing:
   organization = {IEEE}
 }
 ```
+
+### Correction
+In our paper, we claim that we use "K-fold corss-validation" strategy to conducet the experiments. However, it should actually be "Leave-two-fold-out corss-validation". We sincerely apologize for any confusion or inconvenience caused by this wrong expression.
+
 
 ## Contact
 Welcome to raise issues or email to [zhengyu.zhang@insa-rennes.fr](zhengyu.zhang@insa-rennes.fr) for any question regarding this work.
