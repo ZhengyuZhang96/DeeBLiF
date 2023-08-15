@@ -91,7 +91,7 @@ If you find this work helpful, please consider citing:
 ```
 
 ### Correction
-In our paper, we claim that we use "K-fold corss-validation" strategy to conducet the experiments. However, it should actually be "Leave-two-fold-out corss-validation". We sincerely apologize for any confusion or inconvenience caused by this wrong expression.
+In our paper, we claim that we use "K-fold cross-validation" strategy to conducet the experiments. However, it should actually be "Leave-two-fold-out cross-validation". We sincerely apologize for any confusion or inconvenience caused by this wrong expression.
 
 
 ## Contact
