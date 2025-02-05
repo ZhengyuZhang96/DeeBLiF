@@ -95,4 +95,4 @@ In our paper, we claim that we use "K-fold cross-validation" strategy to conduce
 
 
 ## Contact
-Welcome to raise issues or email to [zhengyu.zhang@insa-rennes.fr](zhengyu.zhang@insa-rennes.fr) for any question regarding this work.
+Welcome to raise issues or email to [zhengyuzhang@gzhu.edu.cn](zhengyuzhang@gzhu.edu.cn) for any question regarding this work.
